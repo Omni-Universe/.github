@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/InTheta/InTheta/main/assets/omni-christo.png" width="96" alt="Omni Christo"></p>
+
 # Omni Universe
 
 Omni Terminal brings market data, research and trading workflows into one interface.
